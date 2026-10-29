@@ -1,0 +1,17 @@
+pwd - asosiy yo'lni ko'rish
+cd .. - bitta orqadagi papkaga o'tish
+cd Desktop/ - ko'rsatilinga papkaga o'tish
+cd / - root papkaga o'tish
+ls - mavjud papka yoki fayllarni ko'rish
+mkdir 6-dars - yangi papka hosil qilish
+touch - yangi fayl hosil qilish(fprg, html, txt....)
+cd - Change the current directory
+pwd - Print the current working directory
+echo - Display a line of text
+cat - Concatenate and display files
+cp - Copy files and directories
+mv - Move or rename files
+rm - Delete files or folders
+touch - Create an empty file or update its time
+mkdir - Create a new folder
+```
